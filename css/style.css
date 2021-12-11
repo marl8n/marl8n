@@ -1,0 +1,24 @@
+:root {
+    /* Colors */
+    --purple: #360466; 
+    --dark-purple: #1B0233; 
+    --primary-text-color: #EFE9F5; 
+    --secondary-text-color: #DDC4F5; 
+    --primary-color: #7A0AE5; 
+    --secondary-color: #2EE56D; 
+    --terciary-color: #F5C87F; 
+    --blue-link: #5C8AE5;
+    
+    /* font-sizes */
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Source Sans 3', sans-serif;
+}
