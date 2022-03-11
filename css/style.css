@@ -22,3 +22,26 @@ html {
     font-size: 62.5%;
     font-family: 'Source Sans 3', sans-serif;
 }
+
+.header {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: var(--primary-color);
+}
+
+.isotype-header {
+    transition-timing-function: ease-out;
+    transition-duration: 200ms;
+    width: 32vw;
+    height: auto;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.isotype-header:hover {
+    transition-timing-function: ease-out;
+    transition-duration: 200ms;
+    transform: scale(1.1);
+}
