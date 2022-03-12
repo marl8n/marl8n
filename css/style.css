@@ -74,6 +74,18 @@ html {
     gap: 10px;
 }
 
+.footer-list li {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: start;
+    align-items: center;
+    gap: 8px;
+}
+
+.footer-link__image {
+    height: 24px;
+}
+
 .footer-link:hover {
     transition-duration: 200ms;
     transition-timing-function: ease-in-out;
