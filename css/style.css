@@ -23,6 +23,10 @@ html {
     font-family: 'Source Sans 3', sans-serif;
 }
 
+.body {
+    display: grid;
+}
+
 .header {
     width: 100vw;
     height: 100vh;
@@ -44,4 +48,47 @@ html {
     transition-timing-function: ease-out;
     transition-duration: 200ms;
     transform: scale(1.1);
+}
+
+
+.footer {
+    padding: 20px 5%;
+    display: grid;
+    place-content: center;
+    background-color: var(--dark-purple);
+}
+
+.footer-link {
+    transition-duration: 200ms;
+    transition-timing-function: ease-in-out;
+    font-size: 16px;
+    font-weight: normal;
+    color: var(--primary-text-color);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+}
+
+.footer-list {
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.footer-list li {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: start;
+    align-items: center;
+    gap: 8px;
+}
+
+.footer-link__image {
+    height: 24px;
+}
+
+.footer-link:hover {
+    transition-duration: 200ms;
+    transition-timing-function: ease-in-out;
+    color: var(--secondary-text-color);
+    border-bottom-color: var(--secondary-text-color);
 }
