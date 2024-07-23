@@ -1,8 +1,7 @@
 # Hello there! is Marl8n
 
-- 🔭 I’m currently working on web development!.
-- 🌱 I’m currently learning rust
-- 👯 I’m looking to collaborate on web projects that requires creativity
+- 🔭 I’m currently working with AWS and typescript!.
+- 🌱 I’m currently learning rust and php.
 - 💬 Ask me about UX and UI design
 - ⚡ Fun fact: I'm also a photographer and videographer, if you want to watch my content go to [@marl8n](https://instagram.com/marl8n_/)
 
