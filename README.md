@@ -1,7 +1,7 @@
 # Hello there! is Marl8n
 
 - 🔭 I’m currently working with AWS and typescript!.
-- 🌱 I’m currently learning rust and php.
+- 🌱 I’m currently learning go and mastring AWS knowledge.
 - 💬 Ask me about UX and UI design
 - ⚡ Fun fact: I'm also a photographer and videographer, if you want to watch my content go to [@marl8n](https://instagram.com/marl8n_/)
 
